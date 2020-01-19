@@ -1,0 +1,286 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HTML5 Blank WordPress Theme\n"
+"POT-Creation-Date: 2019-12-18 00:26+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jürgen Rabe | www.egado.de <rabe@egado.de>\n"
+"Language-Team: Jürgen Rabe | www.egado.de <rabe@egado.de>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#. Description of the theme
+msgid ""
+"Universal template for use for a wide variety of websites. Includes 4 widget "
+"area with adjustable view for each page, navigation and social menu, logos "
+"and more."
+msgstr ""
+"Universelle Vorlage für eine Vielzahl von Websites. Enthält 4 Widget-"
+"Bereiche mit anpassbarer Ansicht für jede Seite, Navigations- und "
+"Sozialmenü, Logos und mehr."
+
+#: ../404.php:10
+msgid "Page not found"
+msgstr "Fehler 404 – Die Seite wurde leider nicht gefunden"
+
+#: ../404.php:12
+msgid "Return home?"
+msgstr "Zurück zur Startseite?"
+
+#: ../archive.php:6
+msgid "Archives"
+msgstr "Archive"
+
+#: ../author.php:8
+msgid "Author Archives for "
+msgstr "Autor-Archiv für "
+
+#: ../author.php:14
+msgid "About "
+msgstr "Über "
+
+#: ../author.php:41 ../loop.php:22 ../single.php:27
+msgid "Published by"
+msgstr "Veröffentlicht von"
+
+#: ../author.php:42 ../loop.php:23 ../single.php:28
+msgid "Leave your thoughts"
+msgstr "Schreibe einen Kommentar"
+
+#: ../author.php:42 ../loop.php:23 ../single.php:28
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: ../author.php:42 ../loop.php:23 ../single.php:28
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: ../author.php:61 ../loop.php:39 ../page.php:31 ../single.php:53
+#: ../template-demo.php:31
+msgid "Sorry, nothing to display."
+msgstr "Nichts gefunden, was den Suchkriterien entspricht."
+
+#: ../category.php:6
+msgid "Categories for"
+msgstr "Kategorie-Archiv für"
+
+#: ../comments.php:3
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dieser Artikel ist passwortgeschützt. Um die Kommentare sehen zu können muss "
+"das Passwort eingegeben werden."
+
+#: ../comments.php:18
+msgid "Comments are closed here."
+msgstr "Kommentare sind geschlossen."
+
+#: ../footer.php:6
+msgid "Powered by"
+msgstr "Betrieben mit"
+
+#: ../functions.php:133
+msgid "Header Menu"
+msgstr "Kopfbereichs-Menü"
+
+#: ../functions.php:134
+msgid "Sidebar Menu"
+msgstr "Seitenleisten-Menü"
+
+#: ../functions.php:135
+msgid "Extra Menu"
+msgstr "Zusatz-Menü"
+
+#: ../functions.php:181
+msgid "Left Widget Area"
+msgstr "Links Widget-Bereich"
+
+#: ../functions.php:182 ../functions.php:193
+msgid "Show this widget-area in page options."
+msgstr "Diesen Widget-Bereich in Seitenoptionen anzeigen."
+
+#: ../functions.php:192
+msgid "Right Widget Area"
+msgstr "Rechts Widget-Bereich"
+
+#: ../functions.php:258
+msgid "View Article"
+msgstr "Artikel ansehen"
+
+#: ../functions.php:319
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">sagt:</span>"
+
+#: ../functions.php:322
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar muss noch moderiert werden – Bitte hab etwas Geduld."
+
+#: ../functions.php:328
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: ../functions.php:328
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: ../functions.php:413
+msgid "Add New"
+msgstr "Neuen Artikel erstellen"
+
+#: ../functions.php:415
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../index.php:6
+msgid "Latest Posts"
+msgstr "Letzte Artikel"
+
+#: ../search.php:6
+#, php-format
+msgid "%s Search Results for "
+msgstr "%s Suchergebnisse für "
+
+#: ../searchform.php:3
+msgid "To search, type and hit enter."
+msgstr "Geben Sie zum Suchen ein und drücken Sie die Eingabetaste."
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Suchen"
+
+#: ../single.php:33
+msgid "Tags: "
+msgstr "Stichwörter: "
+
+#: ../single.php:35
+msgid "Categorised in: "
+msgstr "Kategorisiert in: "
+
+#: ../single.php:37
+msgid "This post was written by "
+msgstr "Dieser Artikel wurde verfasst von "
+
+#: ../tag.php:6
+msgid "Tag Archive: "
+msgstr "Stichword-Archiv: "
+
+#: ../searchform.php:3
+msgid "%s results for "
+msgstr "%s Ergebnisse für "
+
+#: ../function.php:338
+msgid "Page sidebar layout"
+msgstr "Seitenleistenlayout"
+
+#: ../function.php:346
+msgid "Sidebar position"
+msgstr "Seitenleisten-position"
+
+#: ../function.php:354,359,375
+msgid "without sidebars"
+msgstr "ohne Seitenleisten"
+
+#: ../function.php:357,359,375
+msgid "show left sidebar"
+msgstr "Linke Seitenleiste anzeigen"
+
+#: ../function.php:360,359,375
+msgid "show right sidebar"
+msgstr "rechte Seitenleiste anzeigen"
+
+#: ../function.php:363,359,375
+msgid "show both sidebars"
+msgstr "zeige beide Seitenleisten"
+
+#: ../template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#. translators: 1: link to WP admin new post page.
+#: ../template-parts/content/content-none.php:26
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit Deinen ersten Post zu veröffentlichen? <a href=\"%1$s\">Beginnen Sie "
+"hier </a>."
+
+#: ../template-parts/content/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Es tut uns leid, aber es stimmt nichts mit Ihren Suchbegriffen überein. "
+"Bitte versuchen Sie es mit anderen Stichwörtern erneut."
+
+#: ../template-parts/content/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Anscheinend können wir nicht finden, wonach Sie suchen. Vielleicht kann die "
+"Suche helfen."
+
+#: ../template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Empfohlen"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: ../template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Weiterlesen"
+
+#: ../template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: ../template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Fusszeile"
+
+#. translators: %s: post author
+#: ../template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Veröffentlicht von"
+
+#: ../template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Weitere Beiträge anzeigen"
+
+#~ msgid "HTML5 Blank Custom Post"
+#~ msgstr "HTML5 Blank Custom Post-Type"
+
+#~ msgid "Add New HTML5 Blank Custom Post"
+#~ msgstr "Neuen HTML5 Blank Custom Post erstellen"
+
+#~ msgid "Edit HTML5 Blank Custom Post"
+#~ msgstr "HTML5 Blank Custom Post bearbeiten"
+
+#~ msgid "New HTML5 Blank Custom Post"
+#~ msgstr "Neuer HTML5 Blank Custom Post"
+
+#~ msgid "View HTML5 Blank Custom Post"
+#~ msgstr "HTML5 Blank Custom Post ansehen"
+
+#~ msgid "Search HTML5 Blank Custom Post"
+#~ msgstr "HTML5 Blank Custom Post suchen"
+
+#~ msgid "No HTML5 Blank Custom Posts found"
+#~ msgstr "Keine HTML5 Blank Custom Posts gefunden"
+
+#~ msgid "No HTML5 Blank Custom Posts found in Trash"
+#~ msgstr "Keine HTML5 Blank Custom Posts im Papierkorb gefunden"
+
+#~ msgid "Description for this widget-area..."
+#~ msgstr "Beschreibung für diesen Widget-Bereich…"
+
+#~ msgid "Widget Area 2"
+#~ msgstr "Widget-Bereich 2"

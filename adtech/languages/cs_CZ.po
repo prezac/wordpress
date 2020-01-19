@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HTML5 Blank WordPress Theme\n"
+"POT-Creation-Date: 2019-12-18 00:26+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Petr Řezáč <prezac@pr-software.net>\n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#. Description of the theme
+msgid ""
+"Universal template for use for a wide variety of websites. Includes 4 widget "
+"area with adjustable view for each page, navigation and social menu, logos "
+"and more."
+msgstr ""
+"Univerzální šablona pro použití pro širokou škálu webových stránek. Obsahuje "
+"4 widget area s nastavitelným zobrazením pro každou stránku, navigace a "
+"sociální menu, loga a další."
+
+#: ../404.php:10
+msgid "Page not found"
+msgstr "Stránka nenalezena"
+
+#: ../404.php:12
+msgid "Return home?"
+msgstr "Vrátit se domů?"
+
+#: ../archive.php:6
+msgid "Archives"
+msgstr "Archivy"
+
+#: ../author.php:8
+msgid "Author Archives for "
+msgstr "Seznam článků od "
+
+#: ../author.php:14
+msgid "About "
+msgstr "O "
+
+#: ../author.php:41 ../loop.php:22 ../single.php:27
+msgid "Published by"
+msgstr "Zveřejněno"
+
+#: ../author.php:42 ../loop.php:23 ../single.php:28
+msgid "Leave your thoughts"
+msgstr "Zanechte své myšlenky"
+
+#: ../author.php:42 ../loop.php:23 ../single.php:28
+msgid "1 Comment"
+msgstr "1 Komentář"
+
+#: ../author.php:42 ../loop.php:23 ../single.php:28
+msgid "% Comments"
+msgstr "% Komentářů"
+
+#: ../author.php:61 ../loop.php:39 ../page.php:31 ../single.php:53
+#: ../template-demo.php:31
+msgid "Sorry, nothing to display."
+msgstr "Promiňte, nic k zobrazení."
+
+#: ../category.php:6
+msgid "Categories for"
+msgstr "Kategorie pro"
+
+#: ../comments.php:3
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr "Příspěvek je chráněn heslem. Vložte heslo pro zobrazení komentářů."
+
+#: ../comments.php:18
+msgid "Comments are closed here."
+msgstr "Komentáře byly uzavřeny."
+
+#: ../footer.php:6
+msgid "Powered by"
+msgstr "Vytvořeno"
+
+#: ../functions.php:133
+msgid "Header Menu"
+msgstr "Hlavní menu"
+
+#: ../functions.php:134
+msgid "Sidebar Menu"
+msgstr "Postranní menu"
+
+#: ../functions.php:135
+msgid "Extra Menu"
+msgstr "Extra menu"
+
+#: ../functions.php:181
+msgid "Left Widget Area"
+msgstr "Levý widget prostor"
+
+#: ../functions.php:182 ../functions.php:193
+msgid "Show this widget-area in page options."
+msgstr "Zobrazit widget prostor ve vlastnostech stránky."
+
+#: ../functions.php:192
+msgid "Right Widget Area"
+msgstr "Pravý widget prostor"
+
+#: ../functions.php:258
+msgid "View Article"
+msgstr "Zobrazit článek"
+
+#: ../functions.php:319
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">říkají:</span>"
+
+#: ../functions.php:322
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na schválení."
+
+#: ../functions.php:328
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s v %2$s"
+
+#: ../functions.php:328
+msgid "(Edit)"
+msgstr "(Edituj)"
+
+#: ../functions.php:413
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: ../functions.php:415
+msgid "Edit"
+msgstr "Edituj"
+
+#: ../index.php:6
+msgid "Latest Posts"
+msgstr "Poslední příspěvky"
+
+#: ../search.php:6
+#, php-format
+msgid "%s Search Results for "
+msgstr "%s výsledků hledání pro "
+
+#: ../searchform.php:3
+msgid "To search, type and hit enter."
+msgstr "Napište co hledáte a stiskněte Enter."
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Vyhledat"
+
+#: ../single.php:33
+msgid "Tags: "
+msgstr "Tagy: "
+
+#: ../single.php:35
+msgid "Categorised in: "
+msgstr "V kategorii: "
+
+#: ../single.php:37
+msgid "This post was written by "
+msgstr "Tento příspěvek byl napsán "
+
+#: ../tag.php:6
+msgid "Tag Archive: "
+msgstr "Archivní tagy: "
+
+#: ../searchform.php:3
+msgid "%s results for "
+msgstr "%s výsledky pro "
+
+#: ../function.php:338
+msgid "Page sidebar layout"
+msgstr "Umístění postranních menu"
+
+#: ../function.php:346
+msgid "Sidebar position"
+msgstr "Pozice menu"
+
+#: ../function.php:354,359,375
+msgid "without sidebars"
+msgstr "bez menu"
+
+#: ../function.php:357,359,375
+msgid "show left sidebar"
+msgstr "zobrazit levé"
+
+#: ../function.php:360,359,375
+msgid "show right sidebar"
+msgstr "zobrazit pravé"
+
+#: ../function.php:363,359,375
+msgid "show both sidebars"
+msgstr "zobrazit obě"
+
+#: ../template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: ../template-parts/content/content-none.php:26
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Chystáte se publikovat první příspěvek? <a href=\"%1$s\">Můžete začít rovnou "
+"zde</a>."
+
+#: ../template-parts/content/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Omlouváme se, ale zadaný výraz nebyl na webu nalezen. Zkuste prosím hledat "
+"znovu nějaké jiné klíčové slovo."
+
+#: ../template-parts/content/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání "
+"konkrétního klíčového slova."
+
+#: ../template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Doporučujeme"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: ../template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Pokračovat ve čtení<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: ../template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: ../template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Zápatí"
+
+#. translators: %s: post author
+#: ../template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Autor %s"
+
+#: ../template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Zobrazit více příspěvků"
+
+#~ msgid "HTML5 Blank Custom Post"
+#~ msgstr "HTML5 příspěvek"
+
+#~ msgid "Add New HTML5 Blank Custom Post"
+#~ msgstr "Přidat nový HTML5 příspěvek"
+
+#~ msgid "Edit HTML5 Blank Custom Post"
+#~ msgstr "Edituj HTML5 příspěvek"
+
+#~ msgid "New HTML5 Blank Custom Post"
+#~ msgstr "Nový HTML5 příspěvek"
+
+#~ msgid "View HTML5 Blank Custom Post"
+#~ msgstr "Zobraz HTML5 příspěvek"
+
+#~ msgid "Search HTML5 Blank Custom Post"
+#~ msgstr "Vzhledej HTML5 příspěvek"
+
+#~ msgid "No HTML5 Blank Custom Posts found"
+#~ msgstr "Žádný HTML5 příspěvek"
+
+#~ msgid "No HTML5 Blank Custom Posts found in Trash"
+#~ msgstr "Žádný HTML5 příspěvek v koši"
+
+#~ msgid "Description for this widget-area..."
+#~ msgstr "Popis pro tento widget-area..."
+
+#~ msgid "Widget Area 2"
+#~ msgstr "Widget Area 2"

@@ -1,0 +1,104 @@
+/*
+Theme Name: adtech
+Theme URI: https://wordpress.org/themes/adtech/
+Author: PR-Software
+Author URI: https://www.pr-software.net/
+Description: Universal template for use for a wide variety of websites. Includes 4 widget area with adjustable view for each page, navigation and social menu, logos and more.
+Requires at least: WordPress 5.3.2
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: adtech
+Tags: three-columns, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, sticky-post, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Variables
+# Normalize
+# Typography
+	## Headings
+	## Copy
+# Elements
+	## Lists
+	## Tables
+# Forms
+	## Buttons
+	## Fields
+# Navigation
+	## Links
+	## Menus
+	## Next & Previous
+# Accessibility
+# Alignments
+# Clearings
+# Layout
+# Widgets
+# Content
+	## Archives
+	## Posts and pages
+	## Comments
+# Blocks
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+@import "sass/variables-site/variables-site";
+@import "sass/mixins/mixins-master";
+
+/* Normalize */
+
+@import "sass/normalize";
+
+/* Typography */
+
+@import "sass/typography/typography";
+
+/* Elements */
+
+@import "sass/elements/elements";
+
+/* Forms */
+
+@import "sass/forms/forms";
+
+/* Navigation */
+
+@import "sass/navigation/navigation";
+
+/* Accessibility */
+
+@import "sass/modules/accessibility";
+
+/* Alignments */
+
+@import "sass/modules/alignments";
+
+/* Clearings */
+
+@import "sass/modules/clearings";
+
+/* Layout */
+
+@import "sass/layout/layout";
+
+/* Content */
+
+@import "sass/site/site";
+
+/* Widgets */
+
+@import "sass/site/secondary/widgets";
+
+/* Blocks */
+
+@import "sass/blocks/blocks";
+
+/* Media */
+
+@import "sass/media/media";
